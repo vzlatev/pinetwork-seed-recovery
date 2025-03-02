@@ -1,0 +1,27 @@
+# Ignore JSON config files
+config.json
+
+# Ignore backup and temporary JSON files
+config_backup.json
+*.json.bak
+*.json.tmp
+*.json~
+
+# Ignore Python virtual environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs and debug files
+recovery.log
+logs/
+*.log
+
+# Ignore system files (macOS, Windows, Linux)
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

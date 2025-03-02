@@ -1,7 +1,11 @@
-# This script can help with seed phrase recovery if you know at least 20+ words and wallet address for PI Network account. 
+# This tool brute-forces missing words from a **BIP39 mnemonic phrase** for **Pi Network** wallets.
+
 
 ## 🚀 Overview
-This tool brute-forces missing words from a **BIP39 mnemonic phrase** for **Pi Network** wallets.
+Can help with BIP39 seed phrase recovery if you have partial information and wallet address for PI Network account. 
+Mainly helpful when you’ve lost or forgotten part of your mnemonic seed phrase.
+
+
 
 ## 🛠️ Setup
 
