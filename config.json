@@ -1,0 +1,6 @@
+{
+    "known_words": [],
+    "target_wallet": "GXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+    "derivation_path": "m/44'/314159'/0'",
+    "log_file": "recovery.log"
+}
