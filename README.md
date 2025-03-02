@@ -12,7 +12,7 @@ Mainly helpful when you’ve lost or forgotten part of your mnemonic seed phrase
 ### 1️⃣ Install Dependencies
 Ensure you have Python 3.8+ installed. Then, run:
 ```bash
-pip install mnemonic bip-utils stellar-sdk pynacl
+pip install mnemonic bip-utils stellar-sdk PyNaCl psutil
 ```
 
 ### 2️⃣ Configure `config.json`
