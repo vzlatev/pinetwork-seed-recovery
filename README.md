@@ -23,7 +23,7 @@ pip install mnemonic bip-utils stellar-sdk PyNaCl psutil
 Example `config.json`:
 ```json
 {
-    "known_words": ["word1", "word2", ..., "word22"],
+    "known_words": ["word1", "word2", "word22", "?", "word24"],
     "target_wallet": "GXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
     "derivation_path": "m/44'/314159'/0'",
     "log_file": "recovery.log"
